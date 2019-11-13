@@ -1,0 +1,20 @@
+pi@raspberrypi:~/Thingsboard $ python3 gpio.py 
+Connected with result code {'session present': 1}
+Topic: v1/devices/me/rpc/request/39
+Message: b'{"method":"getGpioStatus","params":"{}"}'
+Topic: v1/devices/me/rpc/request/40
+Message: b'{"method":"setGpioStatus","params":{"pin":11,"enabled":true}}'
+Topic: v1/devices/me/rpc/request/41
+Message: b'{"method":"setGpioStatus","params":{"pin":13,"enabled":true}}'
+Topic: v1/devices/me/rpc/request/42
+Message: b'{"method":"setGpioStatus","params":{"pin":15,"enabled":true}}'
+Topic: v1/devices/me/rpc/request/43
+Message: b'{"method":"setGpioStatus","params":{"pin":29,"enabled":true}}'
+Topic: v1/devices/me/rpc/request/44
+Message: b'{"method":"setGpioStatus","params":{"pin":31,"enabled":true}}'
+Topic: v1/devices/me/rpc/request/45
+Message: b'{"method":"setGpioStatus","params":{"pin":33,"enabled":true}}'
+Topic: v1/devices/me/rpc/request/46
+Message: b'{"method":"setGpioStatus","params":{"pin":35,"enabled":true}}'
+Topic: v1/devices/me/rpc/request/47
+Message: b'{"method":"setGpioStatus","params":{"pin":37,"enabled":true}}'
